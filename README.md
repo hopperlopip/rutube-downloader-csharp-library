@@ -1,4 +1,4 @@
-# rutube-downloader-csharp
+# rutube-downloader-csharp-library
 
 C# Library for downloading RuTube videos. Requires FFmpeg.exe
 
